@@ -361,7 +361,7 @@ body {
 	border: none;
 	position: absolute;
 	right: 0;
-	top: 0;
+	top: 40%;
 	z-index: 99;
 	cursor: pointer;
 }
